@@ -159,7 +159,7 @@ attachments/*
 **/*.avi
 **/*.pdf
 
-# Exclude from ignored following attachments
+# Exclude from ignored following files in attachments/
 
 !/attachments/demo.jpg
 !/attachments/obsidian-km-testing-kit.jpg
@@ -168,4 +168,10 @@ attachments/*
 !/attachments/templates.jpg
 !/attachments/navigation.jpg
 !/attachments/metadata.jpg
+
+
+# Exclude from ignored following files in resource-library/
+
+!/resource-library/mot.exploratory.Checklist_for_Test_of_Web_Pages.pdf
+!/mot.security.EvilUserStoriesSlides.pdf
 

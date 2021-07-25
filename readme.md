@@ -9,7 +9,7 @@
 + [Issues](#issues)
 
 ## About <a name = "about"></a>
-This is an ObsidianMD starter kit (vault) testers and QA enthusiasts. The main 2 goals are:
+This is an ObsidianMD starter kit (vault) for testers and QA enthusiasts. The main 2 goals are:
 1. Share my templates, findings and  settings for ObsidianMD with other testers who also use that tool in their work.
 2. To have a handy template in the cloud for myself. When I need to start a new testing project, I can download / clone this starter kit  from  GitHub. Without spending much time on settings and configurations  I can quickly start using it for my testing needs in less than 5 min.
 
@@ -41,7 +41,7 @@ Here is the screen you should see after step #5
 
 ## Usage <a name = "usage"></a>
 
-Some hotkeys to get started. All commands in Obsidian can be accessed from command palette. Hotkeys can be customized by navigating to Settings (icon in the bottom left corner) > Hotkeys (Mac OS:).
+Some hotkeys to get started. All commands in Obsidian can be accessed from command palette. Hotkeys can be customized by navigating to Settings (icon in the bottom left corner) > Hotkeys (below are Mac OS examples).
 
 > Cmd + O - open quick switcher (dialog window with fuzzy search across all files in your vault)
 
@@ -100,9 +100,8 @@ select "exploratory" using keyboard and press Enter or click the option
 ## Metadata  <a name = "metadata"></a>
 Some examples describing how to work with metadata using [MetaEdit plugin](https://github.com/chhoumann/MetaEdit) and templates
 
-1. Add or update Yaml properties - press Alt + Cmd + M
-2. Add Auto Properties  values selectable through a suggester - navigate to Settings > Plugin Options > MetaEdit > Auto Properties > click Settings icon
-
+1. Add or update YAML properties - press Alt + Cmd + M
+2. Add Auto Properties  values selectable through a suggester - navigate to Settings > Plugin Options > MetaEdit > Auto Properties > click Settings icon. Then add properties and selectable values.
 
 Here is example how to add  feature name to metadata of the session note created in previous example
 
@@ -152,5 +151,6 @@ The following examples  of frontmatter demonstrate naming conventions for most c
 
 ![navigation](attachments/navigation.jpg)
 
+![graph](attachments/graph.jpg)
 ## Issues <a name = "issues"></a>
 Please report issues here

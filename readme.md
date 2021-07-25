@@ -1,4 +1,14 @@
 # Knowledge Management in Testing - Obsidian Starter Kit
+<p align="center">
+
+<img title="obsidian" alt="obsidian" src="attachments/obsidian.png">
+
+</p>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Table of Contents
 + [About](#about)

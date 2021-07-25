@@ -169,7 +169,7 @@ attachments/*
 !/attachments/navigation.jpg
 !/attachments/metadata.jpg
 !/attachments/graph.jpg
-
+!/attachments/obsidian.png
 
 # Exclude from ignored following files in resource-library/
 

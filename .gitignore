@@ -168,6 +168,7 @@ attachments/*
 !/attachments/templates.jpg
 !/attachments/navigation.jpg
 !/attachments/metadata.jpg
+!/attachments/graph.jpg
 
 
 # Exclude from ignored following files in resource-library/

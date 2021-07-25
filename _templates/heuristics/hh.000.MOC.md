@@ -22,7 +22,7 @@
  - [hh.103.heuristics.follow the data](hh.103.heuristics.follow%20the%20data.md)
  - [hh.104.heuristics.interruptions](hh.104.heuristics.interruptions.md)
  - [hh.105.heuristics.user roles](hh.105.heuristics.user%20roles.md)
- - [hh.106. heuristics.testing.test types general](hh.106.%20heuristics.testing.test%20types%20general.md)
+ - [hh.106.heuristics.testing.test types general](hh.106.heuristics.testing.test%20types%20general.md)
  - [hh.290.heuristics.components](hh.290.heuristics.components.md)
  - [hh.400.heuristics.review bug fixes](hh.400.heuristics.review%20bug%20fixes.md)
  - [hh.502.heuristics.issues missed in the past (1-5)](hh.502.heuristics.issues%20missed%20in%20the%20past%20(1-5).md)

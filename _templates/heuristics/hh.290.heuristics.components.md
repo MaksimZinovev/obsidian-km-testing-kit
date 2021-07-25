@@ -1,0 +1,4 @@
+- structure -  outline a structure of what you are testing. Use mind map or outline list; what components it includes?
+- internal components - risks for individual components
+- external components cloud - storage, services
+- communication - risks for communication between components

@@ -1,0 +1,5 @@
+- Issues I missed in the past (6-10)
+	- Incorrect validation message (category instead of subcategory)
+	- Sub menu is detached from its parent if the browser height was reduced in half
+	- Typos in email or modal 
+	- Multilist values added via approval workflows are not filtered properly

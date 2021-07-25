@@ -1,0 +1,5 @@
+ - Issues I missed in the past (1-5)
+	- Change the button/element state using Inspect tool.
+	- Double-click on the button.
+	- Long string in text field is accepted which breaks UI 
+	- Long text is not truncated 

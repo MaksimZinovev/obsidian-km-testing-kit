@@ -1,0 +1,1 @@
+Use the CRUD (Create, Read, Update, Delete) heuristic, Zero-One-Many heuristic, Some-None-All heuristic, and data dependencies to find potential problems with creating, viewing, updating, and deleting the different types of entities the system tracks

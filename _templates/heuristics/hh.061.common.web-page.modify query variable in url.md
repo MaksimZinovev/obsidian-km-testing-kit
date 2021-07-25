@@ -1,0 +1,1 @@
+example www.website.com/43543fgjf45?firstTime=true → www.website.com/43543fgjf45

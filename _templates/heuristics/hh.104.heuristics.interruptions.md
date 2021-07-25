@@ -1,0 +1,1 @@
+Log Off, Shut Down, Reboot, Kill Process, Disconnect, Hibernate, Timeout, Cancel

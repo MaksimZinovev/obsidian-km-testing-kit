@@ -1,0 +1,1 @@
+When initial issue fix is verified, also make sure regression bugs were not introduced (e.g. spend reasonable time to test other data types, screens, workflows)

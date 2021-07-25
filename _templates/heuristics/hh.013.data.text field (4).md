@@ -1,0 +1,11 @@
+Text field 
+- non-ASCII characters (could be Swedish characters, Russian characters)
+- copy/paste
+- reserved system name
+- drag/drop
+- Accented Chars (àáâãäåçèéêëìíîðñòôõöö, etc.) 
+- Asian Chars (  ) 
+- Common Delimiters and Special Characters ( “ ‘ ` | / \ , ; : & < > ^ * ? Tab )
+- Leave Blank
+- End-of-Line Characters (^M)
+- With All Actions (Entering, Searching, Updating, etc.)

@@ -1,0 +1,15 @@
+Date field
+- valid date and format
+- letters,
+- special characters, 
+- date in the past
+- date in the future
+- missing numbers ex 202011
+- invalid dates (such as day 32, month 13)
+- set date using keyboard
+- setting date using  datepicker
+- set date and refresh page
+- bank holidays, weekends and regular weekdays
+- leap year/leap day
+-  different date and time formats
+-  time zones

@@ -1,0 +1,26 @@
+# Quality Aspects
+- Operations
+- Business value capability
+- Accessibility
+- Internationalization
+- Functionality
+- Safe-Guard (related to intruders, hackers)
+- Adapdability
+- Confidentiality (duty of an individual to refrain from sharing confidential information with others, except with the express consent of the other party)
+- Security and Permissions
+- Installability
+- Complexity
+- Clarity
+- Impartiality
+- Testability
+- Concurrency
+- Availability
+- Changeability
+- Observability
+- Scalability
+- User Friendliness
+- Performance
+- Data
+- Stability
+- Structure
+- What else?

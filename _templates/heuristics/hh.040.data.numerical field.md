@@ -1,0 +1,13 @@
+Number field
+- boundaries: min, max value, min(max) + 1 / -1
+- Non-ASCII https://terpconnect.umd.edu/~zben/Web/CharSet/htmlchars.html
+- Non-numerics
+- NULL value
+- Blank or empty
+- Negative numbers
+- Zero (0)
+- Decimal numbers in integer fields
+- Overflow: Numbers that are bigger than the data type used
+- Different numerical formats (metric, Pound etc)
+- Numerical separators (ex. 1000 vs 1.000 vs 1,000 vs 1 000)
+- Division by zero

@@ -28,7 +28,7 @@ All of the above can be customized as per your needs and preferences.
 These instructions will get you a copy of the starter kit up and running on your local machine so you can start using it.
 
 Main steps include
-1. Clone repo or download zip from GitHub. Unzip if you downloaded zip
+1. Clone repository or [download zip](https://github.com/MaksimZinovev/obsidian-km-testing-kit/releases) from GitHub. Unzip if you downloaded zip
 2. Install [ObsidianMD ](https://obsidian.md/)on your machine (cross-platform support)
 3. Launch ObsidianMD
 4. On first launch when Safe mode warning appears click "Turn off Safe Mode"
@@ -153,4 +153,4 @@ The following examples  of frontmatter demonstrate naming conventions for most c
 
 ![graph](attachments/graph.jpg)
 ## Issues <a name = "issues"></a>
-Please report issues here
+Please report issues [here](https://github.com/MaksimZinovev/obsidian-km-testing-kit/issues)

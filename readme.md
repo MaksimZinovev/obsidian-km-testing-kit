@@ -5,13 +5,13 @@
 
 </p>
 
-
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## Table of Contents
 + [About](#about)
++ [How You Can Benefit from This Kit as a Tester](#benefit)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
 + [Templates](#templates)
@@ -27,12 +27,22 @@ The starter kit includes
 - preinstalled [Red Graphite Theme](https://github.com/seanwcom/Red-Graphite-for-Obsidian)
 - preinstalled plugins
 - predefined hotkeys
-- [Templater ](https://silentvoid13.github.io/Templater/)scripts
+- [Templater ](https://silentvoid13.github.io/Templater/) scripts
 - some heuristics (templates)
 - some test charter examples (templates)
 - sample folder structure and file name conventions
 
-All of the above can be customized as per your needs and preferences.
+All of the above is customizable as per your needs and preferences.
+
+##  How You Can Benefit from This Kit as a Tester <a name = "benefit"></a>
+- **Session Based Test Management.** Use templates (invoked by hotkeys) to generate session report, daily report, insert metadata, links, automatically update file name and perform other actions. You can customize templates, include YAML metadata to track progress and generate reports.
+- **Heuristics and charters.** Use hotkey to quickly access or view heuristic or charter examples. Modify included heuristics and charters or add your own.
+- **Mind maps.** Use mind maps  inside Obsidian for exploratory testing notes (2 mind map plugins already preinstalled). Alternatively you can export markdown notes to other mind-mapping formats.
+- **Outlining and tasks**. Use ordered or bulleted lists and tasks to outline your exploratory testing notes, feature notes. Track what's already covered/completed.
+- **Linking**. Link your sessions, daily reports, monthly logs, feature notes and test plan.
+- **Version control and sharing.** Use Git to take snapshots of your knowledge base.  You can upload your vault to GitHub for  sharing and backup.
+- **Automations.** Use 20+ templates to automate tasks.
+- **Full control.** All files are stored on your device.
 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the starter kit up and running on your local machine so you can start using it.
@@ -94,15 +104,20 @@ All templates are split in 3 areas, located in "_templates/" folder. Feel free t
 2. heuristics - each file contains a brief description of testing heuristic.
 2. charters - each file contains a charter example.
 
-Example:
+How to create exploratory session note  for authentication module
+
 ```
-Alt + Cmd + X -  insert Templater template
-type 020
+Cmd + Shift + N - create new note
+Alt + Cmd + X - run Templater plugin
+type "020"
+select "020 template.testing.bookmarked templates" using keyboard and press Enter or click on it
+select "session"  - note template 
+select "exploratory"  - session type, your note will have this session type in metadata
+select "authentication" -  your note will have this module name in metadata
 press Enter
-select "session" using keyboard and press Enter or click the option
-select "exploratory" using keyboard and press Enter or click the option
-# session note will be created and moved to the folder "sessions/"
 ```
+
+You can create other types of notes using template "020 template.testing.bookmarked templates" or run any other template.
 
 
 ![templates](attachments/templates.jpg)
@@ -113,7 +128,9 @@ Some examples describing how to work with metadata using [MetaEdit plugin](https
 1. Add or update YAML properties - press Alt + Cmd + M
 2. Add Auto Properties  values selectable through a suggester - navigate to Settings > Plugin Options > MetaEdit > Auto Properties > click Settings icon. Then add properties and selectable values.
 
-Here is example how to add  feature name to metadata of the session note created in previous example
+
+
+How to add  feature name to metadata of the session note created in previous example
 
 ```
 Alt + Cmd + M - run MetaEdit plugin

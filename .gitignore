@@ -170,6 +170,7 @@ attachments/*
 !/attachments/metadata.jpg
 !/attachments/graph.jpg
 !/attachments/obsidian.png
+!/attachments/mindmap.jpg
 
 # Exclude from ignored following files in resource-library/
 

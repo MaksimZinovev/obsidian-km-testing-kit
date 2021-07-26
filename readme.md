@@ -44,6 +44,9 @@ All of the above is customizable as per your needs and preferences.
 - **Automations.** Use 20+ templates to automate tasks.
 - **Full control.** All files are stored on your device.
 
+&nbsp;
+![mindmap](attachments/mindmap.jpg)
+
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the starter kit up and running on your local machine so you can start using it.
 

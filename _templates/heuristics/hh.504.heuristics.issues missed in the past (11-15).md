@@ -1,0 +1,2 @@
+- Issues I missed in the past (11-15)
+	- Text submitted by user is not truncated  in tooltip

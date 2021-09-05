@@ -1,0 +1,8 @@
+- history
+- image
+- comparable products
+- claims
+- user's expectations
+- product itself
+- purpose
+- statutes

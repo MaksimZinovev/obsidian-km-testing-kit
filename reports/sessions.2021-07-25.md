@@ -1,0 +1,2 @@
+Sessions:
+ - [x] Review video for login. Explore login feature by performing basic positive and negative tests to generate test ideas and find potential issues. [2021-07-25.exploratory.login.25min.md](../../sessions/2021-07-25.exploratory.login.25min.md)

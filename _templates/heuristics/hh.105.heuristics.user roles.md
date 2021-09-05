@@ -6,5 +6,6 @@ Users
 - Not registered
 - Blocked
 - Deactivated
+- Robot user
 - 
 

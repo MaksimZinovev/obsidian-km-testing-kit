@@ -1,0 +1,3 @@
+python-frontmatter==1.0.0
+PyYAML==5.1
+XlsxWriter==3.0.1

@@ -23,3 +23,4 @@ aliases: Test Plan
 ## [Resources](150_resources.md) 
 ## [Out Of Scope](160_out_scope.md) 
 ## [Visuals](170_visuals.md) 
+## [[190_heuristics_test_strategy]]
